@@ -1,14 +1,14 @@
 {
-  "version": "1.0.3",
-  "build": 4,
+  "version": "1.0.4",
+  "build": 5,
   "mandatory": false,
-  "notes": "إصلاح حالة الحزم المحفوظة، وتنظيف ملفات التحديث القديمة والجزئية تلقائيًا، وتحرير المساحة وتحسين مثبت Android TV.",
+  "notes": "إصلاح حدود ماوس الريموت في ملء الشاشة والتمرير صعودًا ونزولًا، وترتيب أزرار الإعدادات أفقيًا، وتحويل زر الهاتف إلى تدوير الواجهة، وتحسين حزمة Android.",
   "artifacts": {
     "android": {
-      "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.3/theeb-turk-1.0.3.apk",
-      "sha256": "beafd75a2d1ee7c542b0ea5cfec3c0eaa4b220af806aa0073ad20322c21e19d2",
-      "size": 55996105,
-      "fileName": "theeb-turk-1.0.3.apk"
+      "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.4/theeb-turk-1.0.4.apk",
+      "sha256": "1762ded82a0f3576629e5ebc1733a43d7c73f03afca149bea26138b0977cd4c4",
+      "size": 55864938,
+      "fileName": "theeb-turk-1.0.4.apk"
     }
   }
 }
