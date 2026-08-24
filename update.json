@@ -6,8 +6,8 @@
   "artifacts": {
     "android": {
       "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.1/theeb-turk-1.0.1.apk",
-      "sha256": "1661fb7ff5c1e5b00f9468e3120d5592d95797d4654520c42c9d234544250a9e",
-      "size": 55963101,
+      "sha256": "ddd0c35a99a9ddde35ed734e26131bf322946376ae352a7a28717a30938ac332",
+      "size": 55963093,
       "fileName": "theeb-turk-1.0.1.apk"
     }
   }
