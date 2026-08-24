@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
-  "build": 3,
+  "version": "1.0.3",
+  "build": 4,
   "mandatory": false,
-  "notes": "تحسين ماوس الريموت مع تمرير تلقائي عند حواف الشاشة وحركة أدق، وإضافة مظهر داكن وفاتح محفوظ.",
+  "notes": "إصلاح حالة الحزم المحفوظة، وتنظيف ملفات التحديث القديمة والجزئية تلقائيًا، وتحرير المساحة وتحسين مثبت Android TV.",
   "artifacts": {
     "android": {
-      "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.2/theeb-turk-1.0.2.apk",
-      "sha256": "6b35e5ddb3aba1741a961a0efd1b3db151425d259ed3a68e7d40cf3b0f614f16",
-      "size": 55979721,
-      "fileName": "theeb-turk-1.0.2.apk"
+      "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.3/theeb-turk-1.0.3.apk",
+      "sha256": "beafd75a2d1ee7c542b0ea5cfec3c0eaa4b220af806aa0073ad20322c21e19d2",
+      "size": 55996105,
+      "fileName": "theeb-turk-1.0.3.apk"
     }
   }
 }
