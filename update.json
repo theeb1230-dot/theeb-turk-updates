@@ -5,10 +5,10 @@
   "notes": "الإصدار الأول الموقّع من ذيب ترك مع نظام التحديث الهجين والمشاركة داخل الشبكة.",
   "artifacts": {
     "android": {
-      "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.1/theeb-turk-1.0.1.apk",
+      "url": "https://github.com/theeb1230-dot/theeb-turk-updates/releases/download/v1.0.1/theeb-turk-1.0.1-package-fix.apk",
       "sha256": "ddd0c35a99a9ddde35ed734e26131bf322946376ae352a7a28717a30938ac332",
       "size": 55963093,
-      "fileName": "theeb-turk-1.0.1.apk"
+      "fileName": "theeb-turk-1.0.1-package-fix.apk"
     }
   }
 }
